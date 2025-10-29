@@ -1,0 +1,20 @@
+# requirements.txt
+# Traitement de données
+numpy
+pandas
+scipy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine Learning
+category-encoders
+scikit-learn
+xgboost
+
+# Recommender system
+rectools-lightfm
+
+# Notebook & affichage
+ipython
